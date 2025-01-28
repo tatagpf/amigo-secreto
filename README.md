@@ -3,37 +3,43 @@
 <h1 align="center">Amigo Secreto</h1>
 
 ![imgt](https://github.com/user-attachments/assets/9fb2af99-0cc9-498b-bc76-e7166a14e356)
-
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+# Badges
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 # Índice 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+
+* [Título](#Amigo-Secreto)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
+* [Demonstração](#Demonstração)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Pessoa Desenvolvedora do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
-* [Conclusão](#conclusão)
+  
 
 # Descrição do Projeto
+
 O Amigo Secreto é uma aplicação web simples, desenvolvida com HTML, CSS e JavaScript, que permite aos usuários adicionar nomes e realizar o sorteio do Amigo Secreto. Ao adicionar os amigos, o usuário pode clicar em um botão para sortear aleatoriamente um amigo secreto e exibir o nome do sorteado.
 
 Este projeto visa simplificar a realização do tradicional jogo de "Amigo Secreto" de maneira rápida e prática, sem a necessidade de papéis ou ferramentas externas.
   
 Claro! Abaixo está o README mais completo com todos os tópicos que você mencionou, incluindo título, imagem de capa, badges, índice, descrição, status, funcionalidades, e tudo o mais.
+
 # Status do Projeto > :construction: Projeto em construção :construction:
+
 O projeto está funcionando corretamente, mas está sempre em processo de melhorias.
+
 # :hammer: Funcionalidades do projeto
 
 - `Adicionar amigos para o sorteio`:  Os usuários podem adicionar nomes à lista de amigos.
 - `Sortear um amigo secreto aleatoriamente`: O sistema realiza um sorteio aleatório e exibe o nome do amigo secreto sorteado.
 - `Bloqueio do sorteio após ser realizado, evitando sorteios repetidos sem modificar a lista de amigos.`: Após o sorteio ser realizado, o sistema bloqueia o sorteio até que uma nova lista de amigos seja adicionada.
-# Demonstração:
+# Demonstração
 O usuário digita o nome dos amigos.
 Após adicionar os nomes, ele clica no botão Sortear amigo.
 O sistema sorteia um nome aleatório e exibe a mensagem: "O amigo secreto sorteado é: [nome]".
