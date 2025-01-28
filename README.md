@@ -14,11 +14,12 @@
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Aplicação](#funcionalidades-e-aplicação)
 * [Demonstração](#Demonstração)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
+* [Abrir e rodar o projeto](#Abrir-e-rodar-o-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoa Desenvolvedora do Projeto](#pessoas-desenvolvedoras)
+* [Autor](#Autor)
 * [Licença](#licença)
   
 
@@ -34,7 +35,7 @@ Claro! Abaixo está o README mais completo com todos os tópicos que você menci
 
 O projeto está funcionando corretamente, mas está sempre em processo de melhorias.
 
-# :hammer: Funcionalidades do projeto
+# :hammer: Funcionalidades e Aplicação
 
 - `Adicionar amigos para o sorteio`:  Os usuários podem adicionar nomes à lista de amigos.
 - `Sortear um amigo secreto aleatoriamente`: O sistema realiza um sorteio aleatório e exibe o nome do amigo secreto sorteado.
@@ -46,13 +47,17 @@ O sistema sorteia um nome aleatório e exibe a mensagem: "O amigo secreto sortea
 ![amigos](https://github.com/user-attachments/assets/f16daa0c-0045-422e-b050-a59daf305c5f)
 
 ![igt3](https://github.com/user-attachments/assets/a3602ffa-5798-4fa4-a112-2b643b8bd516)
+
 # 📁 Acesso ao projeto
+
 https://github.com/tatagpf/amigo-secreto.git
 
 # 🛠️ Abrir e rodar o projeto
+
 Navegue até a pasta do projeto:
  `amigo-secreto`
 Abra o arquivo `index.html` em seu navegador para ver a aplicação em funcionamento.
+
 # Tecnologias utilizadas
 `HTML5`: Estruturação do conteúdo da página.
 
