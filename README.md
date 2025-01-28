@@ -17,7 +17,7 @@
 * [Funcionalidades e Aplicação](#Funcionalidades-e-Aplicação)
 * [Demonstração](#Demonstração)
 * [Acesso ao Projeto](#Acesso-ao-Projeto)
-* [Abrir e rodar o projeto](#Abrir-e-Rodar-o-Projeto)
+* [Abrir e Rodar o Projeto](#Abrir-e-Rodar-o-Projeto)
 * [Tecnologias utilizadas](#Tecnologias-Utilizadas)
 * [Autor](#Autor)
 * [Licença](#licença)
@@ -31,7 +31,7 @@ Este projeto visa simplificar a realização do tradicional jogo de "Amigo Secre
   
 Claro! Abaixo está o README mais completo com todos os tópicos que você mencionou, incluindo título, imagem de capa, badges, índice, descrição, status, funcionalidades, e tudo o mais.
 
-# Status do Projeto > :construction: Projeto em construção :construction:
+# Status do Projeto :construction: Projeto em construção :construction:
 
 O projeto está funcionando corretamente, mas está sempre em processo de melhorias.
 
