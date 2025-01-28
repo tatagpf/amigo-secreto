@@ -10,15 +10,15 @@
 # Índice 
 
 * [Título](#Amigo-Secreto)
-* [Badges](#badges)
+* [Badges](#Badges)
 * [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
+* [Descrição do Projeto](#Descrição-do-Projeto)
 * [Status do Projeto](#Status-do-Projeto)
 * [Funcionalidades e Aplicação](#Funcionalidades-e-Aplicação)
 * [Demonstração](#Demonstração)
 * [Acesso ao Projeto](#Acesso-ao-Projeto)
-* [Abrir e rodar o projeto](#Abrir-e-rodar-o-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Abrir e rodar o projeto](#Abrir-e-Rodar-o-Projeto)
+* [Tecnologias utilizadas](#Tecnologias-Utilizadas)
 * [Autor](#Autor)
 * [Licença](#licença)
   
@@ -48,17 +48,17 @@ O sistema sorteia um nome aleatório e exibe a mensagem: "O amigo secreto sortea
 
 ![igt3](https://github.com/user-attachments/assets/a3602ffa-5798-4fa4-a112-2b643b8bd516)
 
-# 📁 Acesso ao projeto
+# Acesso ao Projeto 📁
 
 https://github.com/tatagpf/amigo-secreto.git
 
-# 🛠️ Abrir e rodar o projeto
+# Abrir e Rodar o Projeto 🛠️
 
 Navegue até a pasta do projeto:
  `amigo-secreto`
 Abra o arquivo `index.html` em seu navegador para ver a aplicação em funcionamento.
 
-# Tecnologias utilizadas
+# Tecnologias Utilizadas
 `HTML5`: Estruturação do conteúdo da página.
 
 `CSS3`: Estilização e layout da aplicação.
