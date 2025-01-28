@@ -35,7 +35,7 @@ Claro! Abaixo está o README mais completo com todos os tópicos que você menci
 
 O projeto está funcionando corretamente, mas está sempre em processo de melhorias.
 
-# Funcionalidades e Aplicação :hammer:
+# Funcionalidades e Aplicação
 
 - `Adicionar amigos para o sorteio`:  Os usuários podem adicionar nomes à lista de amigos.
 - `Sortear um amigo secreto aleatoriamente`: O sistema realiza um sorteio aleatório e exibe o nome do amigo secreto sorteado.
@@ -49,11 +49,11 @@ O sistema sorteia um nome aleatório e exibe a mensagem: "O amigo secreto sortea
 
 ![igt3](https://github.com/user-attachments/assets/a3602ffa-5798-4fa4-a112-2b643b8bd516)
 
-# Acesso ao Projeto 📁
+# Acesso ao Projeto
 
 https://github.com/tatagpf/amigo-secreto.git
 
-# Abrir e Rodar o Projeto 🛠️
+# Abrir e Rodar o Projeto
 
 Navegue até a pasta do projeto:
  `amigo-secreto`
