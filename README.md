@@ -14,10 +14,10 @@
 * [Índice](#índice)
 * [Descrição do Projeto](#Descrição-do-Projeto)
 * [Status do Projeto](#Status-do-Projeto)
-* [Funcionalidades e Aplicação](#Funcionalidades-e-Aplicação-:hammer:)
+* [Funcionalidades e Aplicação](#Funcionalidades-e-Aplicação)
 * [Demonstração](#Demonstração)
-* [Acesso ao Projeto](#Acesso-ao-Projeto-📁)
-* [Abrir e Rodar o Projeto](#Abrir-e-Rodar-o-Projeto-🛠️)
+* [Acesso ao Projeto](#Acesso-ao-Projeto)
+* [Abrir e Rodar o Projeto](#Abrir-e-Rodar-o-Projeto)
 * [Tecnologias utilizadas](#Tecnologias-Utilizadas)
 * [Autor](#Autor)
 * [Licença](#licença)
@@ -40,6 +40,7 @@ O projeto está funcionando corretamente, mas está sempre em processo de melhor
 - `Adicionar amigos para o sorteio`:  Os usuários podem adicionar nomes à lista de amigos.
 - `Sortear um amigo secreto aleatoriamente`: O sistema realiza um sorteio aleatório e exibe o nome do amigo secreto sorteado.
 - `Bloqueio do sorteio após ser realizado, evitando sorteios repetidos sem modificar a lista de amigos.`: Após o sorteio ser realizado, o sistema bloqueia o sorteio até que uma nova lista de amigos seja adicionada.
+- 
 # Demonstração
 O usuário digita o nome dos amigos.
 Após adicionar os nomes, ele clica no botão Sortear amigo.
