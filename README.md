@@ -16,7 +16,7 @@
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Aplicação](#funcionalidades-e-aplicação)
 * [Demonstração](#Demonstração)
-* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Acesso ao Projeto](#Acesso-ao-Projeto)
 * [Abrir e rodar o projeto](#Abrir-e-rodar-o-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Autor](#Autor)
@@ -35,7 +35,7 @@ Claro! Abaixo está o README mais completo com todos os tópicos que você menci
 
 O projeto está funcionando corretamente, mas está sempre em processo de melhorias.
 
-# :hammer: Funcionalidades e Aplicação
+# Funcionalidades e Aplicação :hammer:
 
 - `Adicionar amigos para o sorteio`:  Os usuários podem adicionar nomes à lista de amigos.
 - `Sortear um amigo secreto aleatoriamente`: O sistema realiza um sorteio aleatório e exibe o nome do amigo secreto sorteado.
